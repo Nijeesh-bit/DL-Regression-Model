@@ -140,15 +140,15 @@ plt.show()
 ```
 
 ### Dataset Information :
-Include screenshot of the generated data
+![image](https://github.com/user-attachments/assets/a11be88a-4515-41b7-871a-b37a76285932)
 
 ### OUTPUT :
-Training Loss Vs Iteration Plot
-Best Fit line plot
-Include your plot here
+![image](https://github.com/user-attachments/assets/41b0df42-c312-470a-978b-3c5d7e38bf02)
+![image](https://github.com/user-attachments/assets/5db2d4de-5d8c-4174-95c8-bf5673090dc0)
+
 
 ### New Sample Data Prediction :
-Include your sample input and output here
+![image](https://github.com/user-attachments/assets/3692690c-4cc2-477f-b8b4-e78bb0ce6fbd)
 
 ## RESULT :
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
